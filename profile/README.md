@@ -12,4 +12,4 @@
 
 ### 백엔드 구조
 
-<p align="center"><img src="./diagram.png"/></p>
+<p align="center"><img src="https://github.com/motd-5/.github/blob/main/profile/diagram.png"/></p>
