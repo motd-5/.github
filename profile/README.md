@@ -21,7 +21,3 @@
 백엔드 에서는 Express 를 이용하였습니다.
 
 <!-- <p align="center"><img src="https://github.com/motd-5/.github/blob/main/profile/diagram.png"/></p> -->
-
-
-
-<p align="center"><img src="https://github.com/motd-5/.github/blob/main/profile/preview.png"/></p>
