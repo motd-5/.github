@@ -6,7 +6,7 @@
 - `FE`, React : [Motd, React](https://github.com/motd-5/motd-frontend)
 - `BE`, Express : [Motd, Express](https://github.com/motd-5/motd-backend)
 
-<p align="center"><img src="./preview.png"/></p>
+<p align="center"><img src="https://github.com/motd-5/.github/blob/main/profile/preview.png"/></p>
 
 <br><hr><br>
 
@@ -20,4 +20,4 @@
 
 백엔드 에서는 Express 를 이용하였습니다.
 
-<p align="center"><img src="./diagram.png"/></p>
+<p align="center"><img src="https://github.com/motd-5/.github/blob/main/profile/diagram.png"/></p>
