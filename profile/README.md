@@ -7,17 +7,3 @@
 - `BE`, Express : [Motd, Express](https://github.com/motd-5/motd-backend)
 
 [![Video Label](http://img.youtube.com/vi/G5P7WP_DokU/0.jpg)](https://youtu.be/G5P7WP_DokU)
-
-<br><hr><br>
-
-### 프론트엔드 구조
-
-프론트엔드 에서는 React 를 이용하였습니다.
-
-<br><hr><br>
-
-### 백엔드 구조
-
-백엔드 에서는 Express 를 이용하였습니다.
-
-<!-- <p align="center"><img src="https://github.com/motd-5/.github/blob/main/profile/diagram.png"/></p> -->
